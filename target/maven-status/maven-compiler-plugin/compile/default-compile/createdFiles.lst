@@ -1,0 +1,6 @@
+com\learning\Spring\Cloud\Repository\ProductRepository.class
+com\learning\Spring\Cloud\Service\ProductService.class
+com\learning\Spring\Cloud\Controller\productController.class
+com\learning\Spring\Cloud\Service\IPService.class
+com\learning\Spring\Cloud\Model\Product.class
+com\learning\Spring\Cloud\SpringCloudApplication.class
