@@ -7,3 +7,12 @@ ScreenShots
 ![Screenshot (224)](https://github.com/KamalakannanKKK/SpringCloudConfig-Client/assets/109393676/f2872e50-7979-46df-844f-61b305358426)
 
 
+#SpringCloud
+
+Run as => Run Configuration => VM Arguments -> write 
+
+For dev environment :
+-Dspring.profiles.active=dev
+
+For prod environment :
+-Dspring.profiles.active=prod
